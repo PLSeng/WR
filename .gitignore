@@ -219,3 +219,6 @@ __marimo__/
 .wget-hsts
 nltk_data/
 
+
+# too large csv
+TP3/IMDB-Dataset.csv
