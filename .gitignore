@@ -194,6 +194,7 @@ cython_debug/
 .vscode-server
 .vscode/
 .windsurf-server
+.bash_history
 
 
 # Ruff stuff:
